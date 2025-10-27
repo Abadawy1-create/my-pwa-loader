@@ -1,0 +1,21 @@
+{
+  "name": "متجر الطازج",
+  "short_name": "الطازج",
+  "start_url": "YOUR_APPS_SCRIPT_URL",
+  "display": "standalone",
+  "background_color": "#002B5B",
+  "theme_color": "#002B5B",
+  "description": "أسرع طريقة لطلب اللحوم والدواجن الطازجة.",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/YS4ccRBZ/logo-psd.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/YS4ccRBZ/logo-psd.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
