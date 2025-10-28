@@ -1,7 +1,7 @@
 {
   "name": "متجر الطازج",
   "short_name": "الطازج",
-  "start_url": "YOUR_APPS_SCRIPT_URL",
+  "start_url": "https://script.google.com/macros/s/AKfycbzs6dVP-TjFZHWrOWVRmhdxAJOgZJagzfgYijM2D1gwxyDSTK_1MKRFLlMdmsclC2tz/exec",
   "display": "standalone",
   "background_color": "#002B5B",
   "theme_color": "#002B5B",
